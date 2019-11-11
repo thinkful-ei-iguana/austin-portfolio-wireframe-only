@@ -1,0 +1,145 @@
+
+
+
+    header {
+      border: 1px solid black;
+      border-bottom-right-radius: 8px;
+      border-top-right-radius: 8px;;
+      margin-left: 5%;
+      margin-right: 5%;
+      margin-top: 5%;
+      color: #000000;
+      background-color: #fff;
+      
+    }
+    h1 {
+      text-align: center;
+      font-size: 34px;
+      line-height: 32px;
+      padding-bottom: 150px;
+      background-color: #fff;
+    }
+
+  
+  
+    nav {
+      border-bottom: 1px solid black;
+      font-size: 30px;
+      padding-bottom: 8px;
+      padding-left: 10px;
+      text-align: center;
+      text-shadow: 3px 2px 3px rgba(97, 97, 97, 0.7);
+    }
+  
+  h2 {
+    margin-top: 20%;
+    text-shadow: 3px 2px 3px rgba(97, 97, 97, 0.7);
+    font-weight: 400;
+    cursor: pointer;
+    text-align: center;
+  }
+
+    
+  .about-text {
+
+    font-size: 24px;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 40px;
+    text-align: center;
+    color: #5e5e5e;
+    box-shadow: 1px 6px 10px rgba(97, 97, 97, 0.7);
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #fff;
+    
+  }
+  
+  .infoLink {
+    color: #4e4e4e;
+  }
+  
+  h3 {
+      text-align: center;
+  }
+
+  .project-content {
+    border: 1px solid #4e4e4e;
+    color: #5e5e5e;
+    border-radius: 8px;
+    padding: 3px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 6px 10px rgba(97, 97, 97, 0.7);
+    border-radius: 8px;
+    background-color: #fff;
+    width: 30%;
+    text-align: center;
+  
+  }
+  
+
+  
+  .app-pic {
+  display: block;
+  width: 100%;
+  padding-top: 10px;
+  }
+  
+  
+  .contact-title, .contact {
+    text-align: center;
+  }
+  
+  .contact-title {
+    text-decoration: none;
+    font-size: 28px;
+    text-shadow: 3px 2px 3px rgba(97, 97, 97, 0.7);
+    font-weight: 400;
+  }
+  .contact {
+  margin-bottom: 25px;
+  }
+  
+  .live {
+  font-family: sans-serif;
+  font-weight: 900;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 155px;
+  box-shadow: 3px 2px 3px rgba(97, 97, 97, 0.7);
+  cursor: pointer;
+  }
+  
+  .repo {
+  font-family: sans-serif;
+  font-weight: 900;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 15px;
+  box-shadow: 3px 2px 3px rgba(97, 97, 97, 0.7);
+  cursor: pointer;
+  }
+  
+  .mail {
+    border-radius: 100%;
+  }
+  
+  footer {
+    margin-top: 30%;
+  }
+  
